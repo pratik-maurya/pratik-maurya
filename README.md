@@ -5,6 +5,5 @@ PRATIK MAURYA here !
 - 🌱 I’m currently learning MEAN/MERN
 - 👯 I’m looking to collaborate on github
 - 🤔 I’m looking for help with MEAN
-- 💬 Ask me about 
 - 📫 How to reach me: https://pratikmaurya.web.app/ 
 
