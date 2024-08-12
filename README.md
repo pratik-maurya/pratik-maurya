@@ -6,4 +6,4 @@ PRATIK MAURYA here !
 - 👯 I’m looking to collaborate on github
 - 🤔 I’m looking for help with MEAN
 - 📫 How to reach me: https://pratikmaurya.web.app/ 
-
+- 👉 http://www.linkedin.com/in/pratik-maurya/
